@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1339_T48_5064836">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1339</ph> - ACQUISITION OF INFORMATION TECHNOLOGY</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           41 U.S.C. 414; 48 CFR 1.301-1.304.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           75 FR 10570, Mar. 8, 2010, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1339_1_T48_50648361.dita#Subpart_1339_1_T48_50648361">Subpart 1339.1 - General</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1339_107_T48_5064836111.dita#Section_1339_107_T48_5064836111">1339.107 Contract clauses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1339_107_70_T48_5064836112.dita#Section_1339_107_70_T48_5064836112">1339.107-70 Information security.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1339_2_T48_50648362.dita#Subpart_1339_2_T48_50648362">Subpart 1339.2 - Electronic and Information Technology</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1339_270_T48_5064836211.dita#Section_1339_270_T48_5064836211">1339.270 Solicitation provisions and contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
