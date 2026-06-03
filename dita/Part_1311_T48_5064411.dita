@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_1311_T48_5064411">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 1311</ph> - DESCRIBING AGENCY NEEDS</title>
+      <title class="- topic/title ">PART 1311—DESCRIBING AGENCY NEEDS
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1311_1_T48_50644111.dita#Subpart_1311_1_T48_50644111">Subpart 1311.1 - Selecting and Developing Requirements Documents</xref>
+                        href="Subpart_1311_1_T48_50644111.dita#Subpart_1311_1_T48_50644111">Subpart 1311.1—Selecting and Developing Requirements Documents</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -36,7 +36,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1311_5_T48_50644112.dita#Subpart_1311_5_T48_50644112">Subpart 1311.5 - Liquidated Damages</xref>
+                        href="Subpart_1311_5_T48_50644112.dita#Subpart_1311_5_T48_50644112">Subpart 1311.5—Liquidated Damages</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
